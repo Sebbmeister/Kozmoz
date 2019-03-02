@@ -7,7 +7,7 @@ KTH-IS1200: Game project for the chipKIT™ Uno32. "Kozmoz" is inspired by Space
 * logo.png - snazzy game logo.
 
 ## Components used
-ChipKIT components
+ChipKIT™ components
 * [chipKIT™ Uno32 by Digilent](http://chipkit.net/wpcproduct/chipkit-uno32/)
 * [Basic I/O Shield](http://chipkit.net/wpcproduct/chipkit-basic-io-shield/)
 
