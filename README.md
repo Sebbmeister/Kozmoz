@@ -3,7 +3,6 @@
 KTH-IS1200: Game project for the chipKIT™ Uno32. "Kozmoz" is inspired by Space Invaders, with the same basic gameplay (the player controls a ship traversing the x-axis at the bottom of the screen and must shoot down incoming waves of enemies). More detailed information can be found in the Extended Abstract.
 
 ## Explanation of files & directories
-* Kozmoz.zip - game files (high-score system, two-player mode and external components unimplemented)
 * README.md - this document.
 * logo.png - snazzy game logo.
 
