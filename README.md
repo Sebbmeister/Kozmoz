@@ -19,7 +19,7 @@ ChipKIT™ components
 * [Basic I/O Shield](http://chipkit.net/wpcproduct/chipkit-basic-io-shield/)
 
 External components
-* 2x [Luxorparts Joystick](https://www.kjell.com/se/sortiment/el-verktyg/arduino/moduler/luxorparts-joystick-modul-for-arduino-p87943) (movement)
+* 2x [Luxorparts Joystick](https://www.kjell.com/se/sortiment/el-verktyg/arduino/moduler/luxorparts-joystick-modul-for-arduino-p87943)
 
 Coupling
 * 6x [Luxorparts Divisible Coupling Cable](https://www.kjell.com/se/sortiment/el-verktyg/arduino/tillbehor/luxorparts-delbar-kopplingskabel-40-pol-hane-hane-p87901)
