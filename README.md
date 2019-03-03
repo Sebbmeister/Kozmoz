@@ -9,7 +9,7 @@ KTH-IS1200: Game project for the chipKIT™ Uno32. *Kozmoz* is inspired by *Spac
 * **logo.png** - snazzy game logo.
 
 ## Setup
-The [mcb32tools](https://github.com/is1200-example-projects/mcb32tools) are used compiling and running the code. The external components (e.g. the joysticks), are connected as in the image below.
+The [Pic32MX toolchain](https://github.com/is1200-example-projects/mcb32tools) is used for compiling the code. The external components (e.g. the joysticks), are connected as in the image below.
 
 [<img width='40%' src='connection.png'/>](connection.png)
 
