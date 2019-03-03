@@ -7,6 +7,11 @@ KTH-IS1200: Game project for the chipKIT™ Uno32. *Kozmoz* is inspired by *Spac
 * **graphics.zip** - image files for those graphics that cover the entire screen. These image files were converted to bitmaps for use in the code using an [online converter](http://www.majer.ch/lcd/adf_bitmap.php).
 * **logo.png** - snazzy game logo.
 
+## Setup
+Use the [mcb32tools](https://github.com/is1200-example-projects/mcb32tools) for compiling and running the code.
+The external components (e.g. the joysticks), are connected as per this image:
+[<img width='50%' src='connection.png'/>](connection.png)
+
 ## Components used
 ChipKIT™ components
 * [chipKIT™ Uno32 by Digilent](http://chipkit.net/wpcproduct/chipkit-uno32/)
