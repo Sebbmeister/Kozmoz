@@ -23,4 +23,4 @@ External components
 
 Connections
 * 6x [Luxorparts Divisible Coupling Cable](https://www.kjell.com/se/sortiment/el-verktyg/arduino/tillbehor/luxorparts-delbar-kopplingskabel-40-pol-hane-hane-p87901)
-* [Luxorparts Breadboard (830 connections)](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/elektroniklabb/luxorparts-set-med-3-kopplingsdack-mix-pack-p36085)
+* [Luxorparts Breadboard (840 connections)](https://www.electrokit.com/produkt/kopplingsdack-840-anslutningar/?gclid=Cj0KCQiAk-7jBRD9ARIsAEy8mh4qjp4SOr5r_NmhHSzrhE4ZWotySDBRuwqDkEEMemIxBAO8purGmw4aAnTtEALw_wcB)
