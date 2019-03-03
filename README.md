@@ -4,6 +4,7 @@ KTH-IS1200: Game project for the chipKIT™ Uno32. "Kozmoz" is inspired by Space
 
 ## Explanation of files & directories
 * README.md - this document.
+* graphics.zip - image files for those graphics that cover the entire screen. These image files were converted to bitmaps for use in the code using an [online converter](http://www.majer.ch/lcd/adf_bitmap.php).
 * logo.png - snazzy game logo.
 
 ## Components used
