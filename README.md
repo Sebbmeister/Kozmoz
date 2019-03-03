@@ -20,3 +20,7 @@ ChipKIT™ components
 
 External components
 * 2x [Luxorparts Joystick](https://www.kjell.com/se/sortiment/el-verktyg/arduino/moduler/luxorparts-joystick-modul-for-arduino-p87943) (movement)
+
+Connections
+* 6x [Luxorparts Divisible Coupling Cable](https://www.kjell.com/se/sortiment/el-verktyg/arduino/tillbehor/luxorparts-delbar-kopplingskabel-40-pol-hane-hane-p87901)
+* [Luxorparts Breadboard (830 connections)](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/elektroniklabb/luxorparts-set-med-3-kopplingsdack-mix-pack-p36085)
