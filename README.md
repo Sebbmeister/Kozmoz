@@ -4,6 +4,7 @@ KTH-IS1200: Game project for the chipKIT™ Uno32. *Kozmoz* is inspired by *Spac
 
 ## Explanation of files & folders
 * **Extended Abstract.pdf** - project information.
+* **KOZMOZMASTER.zip** - game files.
 * **README.md** - this document.
 * **connection.png** - image of the joysticks connected to the chipKIT™ Uno32.
 * **graphics.zip** - image files for those graphics that cover the entire screen. These image files were converted to bitmaps for use in the code using an [online converter](http://www.majer.ch/lcd/adf_bitmap.php).
